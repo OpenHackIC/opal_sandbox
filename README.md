@@ -2,6 +2,10 @@
 
 Just trying it out.  More info at http://opalrb.org/
 
+To generate:
+
+    rake build
+
 Running specs:
 
     bundle exec rackup
